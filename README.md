@@ -1,9 +1,9 @@
 # K8s_Probes
 
-### What are probes?
+### Probes -
 - To investigate or monitor something and to take necessary actions
 
-### What are health probes in Kubernetes?
+### Health Probes -
 - Health probes monitor your Kubernetes applications and take necessary actions to recover from failure
 - To ensure your application is highly available and self-healing
 
