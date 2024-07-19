@@ -13,7 +13,7 @@
 - Startup ( Probes for legacy applications that need a lot of time to start)
 
 ---
-## Liveness on a File
+## Liveness on a File -
 
 `kind create cluster --name=pavantest --config=kind-cluster-nodes.yml` 
 
@@ -29,7 +29,7 @@
 
 ---
 
-## Liveness using HTTP
+## Liveness using HTTP -
 
 `k apply -f liveness-http.yaml`
 
@@ -47,7 +47,7 @@
 
 ---
 
-## Liveness using TCP
+## Liveness using TCP -
 
 
 `k apply -f liveness-tcp.yaml`
